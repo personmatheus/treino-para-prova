@@ -1,0 +1,36 @@
+.cabecalho{
+
+background-color: black;
+
+color: aliceblue;
+}
+
+.espacamento{
+
+
+text-align: left;
+}
+
+.fundo{
+height: 75vh;
+background-image: url(img_5terre_wide.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+display: flex;
+align-items: center;
+
+    
+}
+.titulo01{
+
+    color: black;
+    text-shadow:2px 2px 2px #fff;
+
+}
+
+.container-fluid{
+display: flex;
+justify-content: space-between;
+
+}
